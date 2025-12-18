@@ -16,7 +16,7 @@ Software engineer with **9 years of experience** building apps that don’t brea
 ### 🎨 Interests
 When I'm not at my terminal, you can find me staying active or exploring creative outlets:
 
-* 🧠 I am a INTP type, always vacuuming up knowledge philosophy, art, culture, and a bit of everything in between.
+* 🧠 I am a [ INTP type](https://www.16personalities.com/intp-personality), always vacuuming up knowledge philosophy, art, culture, and a bit of everything in between.
 * ☕ Hot chocolate enthusiast.
 * 🎮 My all-time favorite game: Half-Life the original of course.
 * 💬 I enjoy deep conversations and sharing ideas, even the weird ones.
