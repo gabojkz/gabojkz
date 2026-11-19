@@ -9,7 +9,7 @@ Software engineer with **9 years of experience** building apps that don’t brea
 
 ### 🔭 What I’m Working On
 
-- Too many weird projects to tell...
+- **[MemeFactory](https://github.com/gabojkz/meme-factory)**: Opensource offline desktop app for saving memes, GIFs and videos and finding any of them instantly by searching the text inside them.
 
 ---
 
